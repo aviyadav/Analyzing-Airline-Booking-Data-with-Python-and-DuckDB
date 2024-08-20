@@ -1,0 +1,6 @@
+﻿Booking ID,Booking Date,Departure Date,Route,Airlines,Number of seat,Ticket fare from airlines,Selling price to customer,Payment method
+53196027,01-10-2015,14-10-2015,PGK_CGK,Airlines 1,7,20000,23000,Method 1
+53196184,01-10-2015,01-10-2015,CGK_JOG,Airlines 1,1,17500,20125,Method 2
+53194317,01-10-2015,08-10-2015,CGK_DPS,Airlines 2,1,19800,22770,Method 3
+53195788,01-10-2015,01-10-2015,CGK_UPG,Airlines 3,2,36000,41400,Method 4
+53195762,01-10-2015,01-10-2015,SUB_CGK,Airlines 1,2,65000,74750,Method 5
